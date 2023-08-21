@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiEFCoreUnableCreateController", "WebApiEFCoreUnableCreateController\WebApiEFCoreUnableCreateController.csproj", "{EFAB57CB-930C-4821-B801-B65C1974CB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiEFCoreUnableCreateController.Domain", "WebApiEFCoreUnableCreateController.Domain\WebApiEFCoreUnableCreateController.Domain.csproj", "{BFA0AF57-B809-41E8-8F2D-6F76A228272D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAB57CB-930C-4821-B801-B65C1974CB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAB57CB-930C-4821-B801-B65C1974CB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAB57CB-930C-4821-B801-B65C1974CB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAB57CB-930C-4821-B801-B65C1974CB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA0AF57-B809-41E8-8F2D-6F76A228272D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA0AF57-B809-41E8-8F2D-6F76A228272D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA0AF57-B809-41E8-8F2D-6F76A228272D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA0AF57-B809-41E8-8F2D-6F76A228272D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6A6CE7B-56AE-4032-8552-3D39C526B01E}
+	EndGlobalSection
+EndGlobal
